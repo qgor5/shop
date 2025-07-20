@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Футболка «Україна»",
+    "price": 350,
+    "category": "одяг",
+    "image": "images/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Кружка «Слава Україні»",
+    "price": 180,
+    "category": "посуд",
+    "image": "images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Сувенірна листівка",
+    "price": 30,
+    "category": "сувеніри",
+    "image": "images/3.jpg"
+  }
+]
