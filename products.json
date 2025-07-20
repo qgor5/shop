@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Футболка «Україна»",
+    "price": 350,
+    "image": "images/tshirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Кружка «Слава Україні»",
+    "price": 180,
+    "image": "images/mug.jpg"
+  }
+]
